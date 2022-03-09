@@ -1,8 +1,13 @@
 test-4
 <<<<<<< HEAD
 khanh
+<<<<<<< HEAD
 main
 =======
 tesst-2
 tesst032131
 >>>>>>> test
+=======
+tesst-2
+>>>>>>> tesst-2\
+merge
